@@ -1,15 +1,12 @@
-# Descubra as melhores notas de matemática do ENEM 2016
+# Descrição do Desafio
+
+## Descubra as melhores notas de matemática do ENEM 2016
 
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. 
 
-## Tópicos
+## Detalhes sobre a resolução
+Fiz o modelo baseado num regressor de Floresta Aleatória e em um regressor linear simples, os dois tiveram resultados excelentes. 
 
-Neste desafio você aprenderá:
-
-- Lógica
-- Análise de dados
-- Estatística
-- Regression
 
 ## Detalhes
 
@@ -31,4 +28,8 @@ Faça o upload do arquivo answer.csv usando o botão "Submeter resposta".
 
 ## Observações
 
-O objetivo do desafio é avaliar a sua capacidade de resolver problemas, então ele pode ser resolvido em qualquer linguagem de programação ou ferramenta que você tenha facilidade. Mas recomendamos o uso de linguagens com maior ferramental de matemática e estatística como Python, R, Scala ou Julia.
+Os outputs foram os arquivos answer sendo 
+- answer_49LR_20linhas.csv # 1ª tentativa, Linear Regressor e 20 primeiras linhas do resultado
+- answer_49LR_2_20linhas.csv # 2ª tentativa, Linear Regressor e 20 primeiras linhas do resultado 
+- answer_49_3RF_20linhas.csv # 3ª tentativa, Random Forest e 20 primeiras linhas
+- answer.csv # ultima submissão enviada, Random FOrest com Dummies nas questõs socioeconomicas e ~3000 linhas [Submetido] Socore 93%
