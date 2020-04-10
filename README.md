@@ -32,4 +32,4 @@ Os outputs foram os arquivos answer sendo
 - answer_49LR_20linhas.csv # 1ª tentativa, Linear Regressor e 20 primeiras linhas do resultado
 - answer_49LR_2_20linhas.csv # 2ª tentativa, Linear Regressor e 20 primeiras linhas do resultado 
 - answer_49_3RF_20linhas.csv # 3ª tentativa, Random Forest e 20 primeiras linhas
-- answer.csv # ultima submissão enviada, Random FOrest com Dummies nas questõs socioeconomicas e ~3000 linhas [Submetido] Socore 93%
+- answer.csv # ultima submissão enviada, Random FOrest com Dummies nas questõs socioeconomicas e ~3000 linhas [Submetido] Score 93%
